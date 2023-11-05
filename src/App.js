@@ -85,7 +85,7 @@ function App() {
   return (
     <div>
       <div id="map" style={{ width: "100%", height: "400px" }}></div>
-      <div onClick={getCurrentPosBtn}>현재 위치</div>
+      <div onClick={getCurrentPosBtn}>현재 위치!!!!!!!!!!</div>
     </div>
   );
 }
